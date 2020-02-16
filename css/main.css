@@ -1,19 +1,13 @@
-.brand-background-color-heading
-{
-    background: rgba(0,132,140,1);
-    color:#EFEFEF;
-}
-
 .brand-background-color
 {
     color:white;
-    background: rgb(0,132,140);
-    background: linear-gradient(176deg, rgba(0,132,140,1) 0%, rgba(0,132,140,1) 50%, rgba(0,120,113,1) 100%);
+    background: rgb(0,132,140, 1);
+    /*background: linear-gradient(176deg, rgba(0,132,140,1) 0%, rgba(0,132,140,1) 50%, rgba(0,120,113,1) 100%);*/
 }
 
 .alternate-background-color{
-    background: rgb(215,210,210);
-    background: linear-gradient(90deg, rgba(242,239,239,1) 0%, rgba(244,242,242,1) 50%, rgba(242,239,239,1) 100%);
+    background: rgba(242,239,239,1)
+    /*background: linear-gradient(90deg, rgba(242,239,239,1) 0%, rgba(244,242,242,1) 50%, rgba(242,239,239,1) 100%);*/
 }
 
 .brand-color
